@@ -10,7 +10,10 @@ public class GitHub {
 
 	}
 	
-	
+	private void jai() {
+		System.out.println("Hi am jai here");
+
+	}
 	
 
 }
