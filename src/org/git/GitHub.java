@@ -22,6 +22,10 @@ public class GitHub {
 
 	}
 	
+	private void vidhya() {
+		
+		System.out.println("Vidhya");
 
+	}
 
 }
