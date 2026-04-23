@@ -1,19 +1,15 @@
 package org.git;
 
 public class GitHub {
-	
-	
-	
+
 	private void git1() {
-		
+
 		System.out.println("Hi am git");
 
 	}
-	
 
-	
 	public static void main(String[] args) {
-		
+
 		System.out.println("Hi am shankar here");
 	}
 
@@ -21,7 +17,11 @@ public class GitHub {
 		System.out.println("Hi am jai here");
 
 	}
-	
 
+	private void imtiaz() {
+
+		System.out.println("Imtiaz");
+
+	}
 
 }
