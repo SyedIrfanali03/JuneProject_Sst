@@ -18,10 +18,15 @@ public class GitHub {
 
 	}
 
+	private void vidhya() {
+
+		System.out.println("Vidhya");
+
+	}
+
 	private void imtiaz() {
 
 		System.out.println("Imtiaz");
-
 	}
 
 }
