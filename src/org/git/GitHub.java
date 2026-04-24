@@ -29,4 +29,9 @@ public class GitHub {
 		System.out.println("Imtiaz");
 	}
 
+	private void uma() {
+
+		System.out.println("Uma");
+	}
+	
 }
