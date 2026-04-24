@@ -29,4 +29,8 @@ public class GitHub {
 		System.out.println("Imtiaz");
 	}
 
+	private void saranya() {
+
+		System.out.println("Saranya");
+	}
 }
