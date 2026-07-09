@@ -41,4 +41,12 @@ public class GitHub {
 		System.out.println("Saranya");
 	}
 
+	private void shabina() {
+		System.out.println("Hi this is shabina");
+
+	}
+	
+	
+	
+	
 }
