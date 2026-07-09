@@ -40,5 +40,37 @@ public class GitHub {
 
 		System.out.println("Saranya");
 	}
+	
+	
+	private void ram() {
+		
+		System.out.println("Hi this is ram");
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 }
