@@ -49,28 +49,12 @@ public class GitHub {
 	}
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	private void shabina() {
+		System.out.println("Hi this is shabina");
 
+	}
+	
+	
+	
+	
 }
